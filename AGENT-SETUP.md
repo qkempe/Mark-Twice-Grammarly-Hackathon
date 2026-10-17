@@ -81,7 +81,7 @@ In the agent → **Add a trigger** → **Proactive assistance** → **While writ
 **Instructions:**
 
 ```
-Suggest the teacher's marks on matching sentences.
+Run when ANY edit is made
 ```
 
 Set **Active** to on and **In-line configuration** to **Automatic**, then click **Add** and save the agent.
