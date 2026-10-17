@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@codahq/packs-sdk": "npm:@codahq/packs-sdk@1.18.3"
+  },
+  "nodeModulesDir": "auto"
+}
